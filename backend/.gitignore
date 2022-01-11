@@ -5,7 +5,6 @@ target/
 !**/src/test/**/target/
 
 ### Generated web sources ###
-!**/src/main/resources/static
 
 ### STS ###
 .apt_generated
@@ -34,4 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/resources/static/
+!/src/main/resources/static/
